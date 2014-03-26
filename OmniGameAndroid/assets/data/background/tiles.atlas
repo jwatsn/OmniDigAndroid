@@ -1,0 +1,47 @@
+
+tiles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dayGradient
+  rotate: false
+  xy: 1, 165
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+nightGradient
+  rotate: false
+  xy: 1, 83
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+plx_DayAboveBG
+  rotate: false
+  xy: 123, 165
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+plx_DayAboveFG
+  rotate: false
+  xy: 1, 1
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+plx_NightAboveBG
+  rotate: false
+  xy: 123, 83
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+plx_NightAboveFG
+  rotate: false
+  xy: 123, 1
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1

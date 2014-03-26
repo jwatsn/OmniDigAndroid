@@ -1,0 +1,306 @@
+
+tiles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bag
+  rotate: false
+  xy: 1, 62
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+chestScreen
+  rotate: false
+  xy: 123, 62
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+crafting
+  rotate: false
+  xy: 245, 62
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+merchant
+  rotate: false
+  xy: 367, 62
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+merchant_bp
+  rotate: false
+  xy: 489, 62
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+button_pressed
+  rotate: false
+  xy: 1, 28
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+button_unpressed
+  rotate: false
+  xy: 611, 94
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+hpbar
+  rotate: false
+  xy: 125, 42
+  size: 130, 18
+  orig: 130, 18
+  offset: 0, 0
+  index: -1
+button_medium_pressed
+  rotate: false
+  xy: 735, 94
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+button_medium_unpressed
+  rotate: false
+  xy: 807, 94
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+button_small
+  rotate: false
+  xy: 879, 94
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+joystick_outer
+  rotate: false
+  xy: 945, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+button_small_pressed
+  rotate: false
+  xy: 611, 60
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button_small_unpressed
+  rotate: false
+  xy: 645, 60
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+GUI_DPad
+  rotate: false
+  xy: 679, 62
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+dpad
+  rotate: false
+  xy: 711, 62
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+GUI_Quickbar
+  rotate: false
+  xy: 1, 16
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+greendeath
+  rotate: false
+  xy: 125, 32
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+LOGO_OmniDig_Shadow
+  rotate: false
+  xy: 257, 51
+  size: 39, 9
+  orig: 39, 9
+  offset: 0, 0
+  index: -1
+LOGO_OmniDig
+  rotate: false
+  xy: 743, 84
+  size: 39, 8
+  orig: 39, 8
+  offset: 0, 0
+  index: -1
+ai_red01
+  rotate: false
+  xy: 1, 6
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+joystick_inner
+  rotate: false
+  xy: 743, 62
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+HUD_Health
+  rotate: false
+  xy: 49, 24
+  size: 30, 2
+  orig: 30, 2
+  offset: 0, 0
+  index: -1
+HUD_Health_Overlay
+  rotate: false
+  xy: 125, 28
+  size: 30, 2
+  orig: 30, 2
+  offset: 0, 0
+  index: -1
+HUD_Stamina
+  rotate: false
+  xy: 175, 38
+  size: 30, 2
+  orig: 30, 2
+  offset: 0, 0
+  index: -1
+HUD_Stamina_Overlay
+  rotate: false
+  xy: 257, 47
+  size: 30, 2
+  orig: 30, 2
+  offset: 0, 0
+  index: -1
+bobrun
+  rotate: false
+  xy: 298, 52
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+GUI_Button_Attack
+  rotate: false
+  xy: 765, 67
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+inv_arrows
+  rotate: false
+  xy: 784, 82
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 1, 1
+  size: 24, 3
+  orig: 24, 3
+  offset: 0, 0
+  index: -1
+GUI_Button_Jump
+  rotate: false
+  xy: 782, 65
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+bskeleton
+  rotate: false
+  xy: 324, 52
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 806, 84
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+textsel
+  rotate: false
+  xy: 1011, 111
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+hp
+  rotate: false
+  xy: 1022, 110
+  size: 1, 16
+  orig: 1, 16
+  offset: 0, 0
+  index: -1
+GUI_Button_Check
+  rotate: false
+  xy: 35, 4
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+GUI_Button_Inventory
+  rotate: false
+  xy: 342, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+GUI_Quickbar_Box
+  rotate: false
+  xy: 354, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+attack_button
+  rotate: false
+  xy: 366, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+selected
+  rotate: false
+  xy: 378, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+up_button
+  rotate: false
+  xy: 390, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+textcursor
+  rotate: false
+  xy: 799, 68
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+bobarm
+  rotate: false
+  xy: 49, 21
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1

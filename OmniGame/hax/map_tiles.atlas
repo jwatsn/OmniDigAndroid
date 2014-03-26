@@ -1,0 +1,447 @@
+
+map_tiles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+breakanim/breakanim
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim0
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim1
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim2
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim3
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim4
+  rotate: false
+  xy: 171, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim5
+  rotate: false
+  xy: 205, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+breakanim/breakanim6
+  rotate: false
+  xy: 239, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+map_tiles2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GEAR_Bomb
+  rotate: false
+  xy: 1, 74
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+DEP_Anvil_Stone
+  rotate: false
+  xy: 1, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DEP_Ladder
+  rotate: false
+  xy: 67, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DEP_Platform_Wood
+  rotate: false
+  xy: 1, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DEP_Seed_BrownTree
+  rotate: false
+  xy: 35, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DEP_Tent
+  rotate: false
+  xy: 101, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+DEP_Wall_Wood
+  rotate: false
+  xy: 35, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FG_Grass1
+  rotate: false
+  xy: 69, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FG_Grass2
+  rotate: false
+  xy: 69, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+FG_Grass3
+  rotate: false
+  xy: 69, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Grass
+  rotate: false
+  xy: 69, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+GEAR_BallOfDeath
+  rotate: false
+  xy: 135, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Coal
+  rotate: false
+  xy: 69, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Copper
+  rotate: false
+  xy: 103, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Dirt
+  rotate: false
+  xy: 169, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Iron
+  rotate: false
+  xy: 103, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Leaves
+  rotate: false
+  xy: 137, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Sand
+  rotate: false
+  xy: 203, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_SpiderSilk
+  rotate: false
+  xy: 137, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Stone
+  rotate: false
+  xy: 171, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Tree_Brown
+  rotate: false
+  xy: 237, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MAT_Water
+  rotate: false
+  xy: 171, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MSC_Blueprints
+  rotate: false
+  xy: 205, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MSC_Coin_Silver
+  rotate: false
+  xy: 271, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+MSC_Tombstone
+  rotate: false
+  xy: 205, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PROP_BreakablePot
+  rotate: false
+  xy: 239, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_Axe_Copper
+  rotate: false
+  xy: 305, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_Axe_Iron
+  rotate: false
+  xy: 239, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_Axe_Stone
+  rotate: false
+  xy: 273, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_Axe_Wood
+  rotate: false
+  xy: 339, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_GrapplingHook
+  rotate: false
+  xy: 273, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_PickAxe_Copper
+  rotate: false
+  xy: 307, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_PickAxe_Iron
+  rotate: false
+  xy: 373, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_PickAxe_Stone
+  rotate: false
+  xy: 307, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TOOL_PickAxe_Wood
+  rotate: false
+  xy: 341, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TUR_BallistaTurret
+  rotate: false
+  xy: 407, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+WEP_Axe_Wood
+  rotate: false
+  xy: 341, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+WEP_Sword_Copper
+  rotate: false
+  xy: 375, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+WEP_Sword_Iron
+  rotate: false
+  xy: 441, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+WEP_Sword_Stone
+  rotate: false
+  xy: 375, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+WEP_Arrow_Wood
+  rotate: false
+  xy: 1, 1
+  size: 32, 3
+  orig: 32, 3
+  offset: 0, 0
+  index: -1
+
+map_tiles3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gears/gear_grey
+  rotate: false
+  xy: 1, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+gears/barrel
+  rotate: false
+  xy: 33, 28
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+gears/barrel_brown
+  rotate: false
+  xy: 33, 28
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+
+map_tiles4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+woodbreakanim/breakanim
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim0
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim1
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim2
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim3
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim4
+  rotate: false
+  xy: 171, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim5
+  rotate: false
+  xy: 205, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim6
+  rotate: false
+  xy: 239, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodbreakanim/breakanim7
+  rotate: false
+  xy: 273, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

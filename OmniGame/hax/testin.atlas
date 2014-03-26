@@ -1,0 +1,1009 @@
+
+testin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+header
+  rotate: false
+  xy: 1, 873
+  size: 950, 150
+  orig: 950, 150
+  offset: 0, 0
+  index: -1
+mainmenu
+  rotate: false
+  xy: 1, 551
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+mainmenu2
+  rotate: false
+  xy: 1, 229
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+mainmenu3
+  rotate: false
+  xy: 483, 551
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+plx_background01
+  rotate: false
+  xy: 483, 229
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+connectionBox
+  rotate: false
+  xy: 1, 27
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 303, 99
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+levels
+  rotate: false
+  xy: 303, 1
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+ai_red01
+  rotate: false
+  xy: 561, 163
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+levels2
+  rotate: false
+  xy: 561, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+bob
+  rotate: false
+  xy: 723, 33
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+breakablepotanim
+  rotate: false
+  xy: 819, 195
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+bobinv
+  rotate: false
+  xy: 953, 897
+  size: 42, 126
+  orig: 42, 126
+  offset: 0, 0
+  index: -1
+greendeath
+  rotate: false
+  xy: 1, 5
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
+hpbar
+  rotate: false
+  xy: 819, 175
+  size: 130, 18
+  orig: 130, 18
+  offset: 0, 0
+  index: -1
+TerrainTiles
+  rotate: false
+  xy: 449, 65
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+numsmall
+  rotate: false
+  xy: 819, 163
+  size: 77, 10
+  orig: 77, 10
+  offset: 0, 0
+  index: -1
+invbutton
+  rotate: false
+  xy: 951, 158
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+invnums
+  rotate: false
+  xy: 723, 19
+  size: 100, 12
+  orig: 100, 12
+  offset: 0, 0
+  index: -1
+bob_arm
+  rotate: false
+  xy: 853, 97
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+joystick_outer
+  rotate: false
+  xy: 853, 31
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+button_medium_pressed
+  rotate: false
+  xy: 449, 31
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+button_medium_unpressed
+  rotate: false
+  xy: 919, 124
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+activepickaxe
+  rotate: false
+  xy: 991, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pickaxe
+  rotate: false
+  xy: 991, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 919, 90
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+bskeleton
+  rotate: false
+  xy: 919, 56
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+button_small
+  rotate: false
+  xy: 919, 22
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+activewoodaxe
+  rotate: false
+  xy: 985, 90
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+anvil_stone01
+  rotate: false
+  xy: 985, 56
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bdirt
+  rotate: false
+  xy: 985, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+botspawner
+  rotate: false
+  xy: 521, 31
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+selected
+  rotate: false
+  xy: 965, 851
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+breakablepot
+  rotate: false
+  xy: 965, 817
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button_small_pressed
+  rotate: false
+  xy: 965, 783
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button_small_unpressed
+  rotate: false
+  xy: 965, 749
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+coal
+  rotate: false
+  xy: 965, 715
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+coin_silver01
+  rotate: false
+  xy: 965, 681
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+coin_silver02
+  rotate: false
+  xy: 965, 647
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+copper
+  rotate: false
+  xy: 965, 613
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+copperaxe
+  rotate: false
+  xy: 965, 579
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+copperpickaxe
+  rotate: false
+  xy: 965, 545
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+coppersword
+  rotate: false
+  xy: 965, 511
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 965, 477
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hookshot
+  rotate: false
+  xy: 965, 443
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+iron
+  rotate: false
+  xy: 965, 409
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ironaxe
+  rotate: false
+  xy: 965, 375
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ironpickaxe
+  rotate: false
+  xy: 965, 341
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ironsword
+  rotate: false
+  xy: 965, 307
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ladder
+  rotate: false
+  xy: 965, 273
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 965, 239
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodplatform
+  rotate: false
+  xy: 999, 828
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 131, 20
+  size: 40, 5
+  orig: 40, 5
+  offset: 0, 0
+  index: -1
+joystick_inner
+  rotate: false
+  xy: 449, 9
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+nullblock
+  rotate: false
+  xy: 997, 1003
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+cave_wall
+  rotate: false
+  xy: 965, 229
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+textsel
+  rotate: false
+  xy: 723, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+hp
+  rotate: false
+  xy: 734, 1
+  size: 1, 16
+  orig: 1, 16
+  offset: 0, 0
+  index: -1
+textcursor
+  rotate: false
+  xy: 825, 19
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+
+testin2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plx_background02
+  rotate: false
+  xy: 1, 675
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+plx_background03
+  rotate: false
+  xy: 1, 353
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+sky-composite
+  rotate: false
+  xy: 483, 675
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 1, 101
+  size: 480, 250
+  orig: 480, 250
+  offset: 0, 0
+  index: -1
+chestScreen
+  rotate: false
+  xy: 483, 423
+  size: 480, 250
+  orig: 480, 250
+  offset: 0, 0
+  index: -1
+crafting
+  rotate: false
+  xy: 483, 171
+  size: 480, 250
+  orig: 480, 250
+  offset: 0, 0
+  index: -1
+merchant
+  rotate: false
+  xy: 483, 171
+  size: 480, 250
+  orig: 480, 250
+  offset: 0, 0
+  index: -1
+bobrun
+  rotate: false
+  xy: 1, 35
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: -1
+invbar
+  rotate: false
+  xy: 483, 135
+  size: 266, 34
+  orig: 266, 34
+  offset: 0, 0
+  index: -1
+mineanim
+  rotate: false
+  xy: 1, 1
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+torch
+  rotate: false
+  xy: 259, 67
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+button_pressed
+  rotate: false
+  xy: 483, 101
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+button_unpressed
+  rotate: false
+  xy: 751, 137
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 389, 67
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 607, 101
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+redbird
+  rotate: false
+  xy: 965, 963
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 195, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+schematics
+  rotate: false
+  xy: 875, 137
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+seedbag
+  rotate: false
+  xy: 455, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 673, 101
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+stoneaxe
+  rotate: false
+  xy: 965, 929
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+stonepickaxe
+  rotate: false
+  xy: 909, 137
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+stonesword
+  rotate: false
+  xy: 489, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+textfield
+  rotate: false
+  xy: 707, 101
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 965, 895
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile2
+  rotate: false
+  xy: 523, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tile22
+  rotate: false
+  xy: 965, 861
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tombstone
+  rotate: false
+  xy: 557, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+torchthumb
+  rotate: false
+  xy: 965, 827
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree_brown_trunk
+  rotate: false
+  xy: 591, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tree_leaves
+  rotate: false
+  xy: 965, 793
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+waterthumb
+  rotate: false
+  xy: 625, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodaxe
+  rotate: false
+  xy: 965, 759
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+woodsword
+  rotate: false
+  xy: 659, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+testin3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background/dayGradient
+  rotate: false
+  xy: 1, 325
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/nightGradient
+  rotate: false
+  xy: 1, 163
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_DayAboveBG
+  rotate: false
+  xy: 243, 325
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_DayAboveFG
+  rotate: false
+  xy: 1, 1
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_DayBelowBG
+  rotate: false
+  xy: 243, 163
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_DayBelowFG
+  rotate: false
+  xy: 485, 325
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_NightAboveBG
+  rotate: false
+  xy: 243, 1
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_NightAboveFG
+  rotate: false
+  xy: 485, 163
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_NightBelowBG
+  rotate: false
+  xy: 727, 325
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+background/plx_NightBelowFG
+  rotate: false
+  xy: 485, 1
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+
+testin4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+particles/particle_BrownDirt
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+particles/particle_Grass
+  rotate: false
+  xy: 1, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+particles/particle_Sand
+  rotate: false
+  xy: 11, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+particles/particle_StoneBlock
+  rotate: false
+  xy: 21, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+
+testin5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+projectiles/PROJ_Arrow_Wood
+  rotate: false
+  xy: 1, 1
+  size: 32, 3
+  orig: 32, 3
+  offset: 0, 0
+  index: -1
+
+testin6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiles/breakanim/breakanim
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim0
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim1
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim2
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim3
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim4
+  rotate: false
+  xy: 171, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim5
+  rotate: false
+  xy: 205, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/breakanim/breakanim6
+  rotate: false
+  xy: 239, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+testin7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiles/MSC_Foliage
+  rotate: false
+  xy: 1, 1
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+tiles/door_wooden
+  rotate: false
+  xy: 99, 1
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+tiles/DEP_Tent
+  rotate: false
+  xy: 165, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/DEP_Toolbox
+  rotate: false
+  xy: 199, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/DEP_Wall_wood
+  rotate: false
+  xy: 233, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/MAT_SpiderSilk
+  rotate: false
+  xy: 267, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/MSC_Mushroom
+  rotate: false
+  xy: 301, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodplatform
+  rotate: false
+  xy: 335, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+testin8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiles/gears/gear_grey
+  rotate: false
+  xy: 1, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+tiles/gears/barrel
+  rotate: false
+  xy: 33, 28
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+tiles/gears/barrel_brown
+  rotate: false
+  xy: 33, 28
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+
+testin9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiles/woodbreakanim/breakanim
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim0
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim1
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim2
+  rotate: false
+  xy: 103, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim3
+  rotate: false
+  xy: 137, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim4
+  rotate: false
+  xy: 171, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim5
+  rotate: false
+  xy: 205, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim6
+  rotate: false
+  xy: 239, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles/woodbreakanim/breakanim7
+  rotate: false
+  xy: 273, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+testin10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+weapons/ballofdeath
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
